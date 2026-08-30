@@ -1,0 +1,7 @@
+certificados/
+*.key
+*.crt
+*.csr
+*.xml
+*.p12
+*.pfx
