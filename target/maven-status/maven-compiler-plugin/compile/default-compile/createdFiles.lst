@@ -1,7 +1,0 @@
-com\facturacion\facturacionarca\Dto\FacturaResultado.class
-com\facturacion\facturacionarca\Dto\CredencialesArca.class
-com\facturacion\facturacionarca\Controller\InicioController.class
-com\facturacion\facturacionarca\Service\ArcaFacturacionService.class
-com\facturacion\facturacionarca\Service\ArcaAuthService.class
-com\facturacion\facturacionarca\FacturacionarcaApplication.class
-com\facturacion\facturacionarca\Dto\FacturaRequest.class

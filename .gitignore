@@ -4,3 +4,4 @@ certificados/
 *.csr
 *.p12
 *.pfx
+target/
